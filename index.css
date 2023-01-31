@@ -1,3 +1,7 @@
+body {
+    font-size: 150%;
+}
+
 .ScheduleTable {
     border-collapse: separate;
     border-spacing: 8px 0px;
